@@ -3,7 +3,7 @@
 # Submission Date: 09/18/24
 # Lab 02 
 # Lab Section: 15
-# Sources, people worked with, help given to: 
+# Sources, people worked with, help given to: Emanual
 # your
 # comments
 # here
