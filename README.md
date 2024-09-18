@@ -1,6 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Houston Patrick Gottsch]
+## [Lab 02]
+## [Submission date: 09/18/24]
 ## Worked with/sources 
 * example
 * example
